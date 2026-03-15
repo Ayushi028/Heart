@@ -7,7 +7,7 @@ model = joblib.load("knn.pkl")
 scaler = joblib.load("scaler.pkl")
 expected_columns = joblib.load("columns.pkl")
 
-st.title("Heart Disease Prediction ❤️")
+st.title(" ❤️ Heart Disease Prediction")
 st.markdown("Provide the following details")
 
 # Input fields
