@@ -13,6 +13,7 @@ HEART/
 ├── scaler.pkl            # Fitted scaler for preprocessing
 ├── columns.pkl           # Expected feature columns
 └── README.md             # Project documentation
+└── requirements.txt            # Required 
 
 
 ---
